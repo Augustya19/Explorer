@@ -1,6 +1,6 @@
-# Travel Go ✈️🌍 – E-Tourism Booking Platform
+# Explorer ✈️🌍 – E-Tourism Booking Platform
 
-**Travel Go** is a front-end tourism application designed to streamline travel planning by allowing users to browse and book flights, hotels, and personalized travel packages — all within a clean and responsive user interface.
+**Explorer** is a front-end tourism application designed to streamline travel planning by allowing users to browse and book flights, hotels, and personalized travel packages — all within a clean and responsive user interface.
 
 ---
 
