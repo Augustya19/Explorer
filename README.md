@@ -42,7 +42,9 @@ All you need is a modern web browser (Chrome, Firefox, Edge, etc.).
 
 1. Clone the repository:
 git clone https://github.com/Augustya19/Tour-Agency.git
+
 cd Tour-Agency
+
 2. Open index.html in your browser.
 
 That’s it — no server setup needed!
